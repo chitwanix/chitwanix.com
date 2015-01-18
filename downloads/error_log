@@ -1,0 +1,7 @@
+[20-Jun-2014 08:54:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '=' in /home/ctwnix/public_html/downloads/index.php on line 1
+[20-Jun-2014 08:55:16 Etc/GMT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/ctwnix/public_html/downloads/index.php on line 1
+[20-Jun-2014 08:55:35 Etc/GMT] PHP Parse error:  syntax error, unexpected T_STRING in /home/ctwnix/public_html/downloads/index.php on line 1
+[20-Jun-2014 08:55:48 Etc/GMT] PHP Parse error:  syntax error, unexpected T_STRING in /home/ctwnix/public_html/downloads/index.php on line 1
+[20-Jun-2014 08:57:48 Etc/GMT] PHP Fatal error:  Call to undefined function redirect() in /home/ctwnix/public_html/downloads/index.php on line 1
+[20-Jun-2014 08:58:36 Etc/GMT] PHP Parse error:  syntax error, unexpected T_STRING in /home/ctwnix/public_html/downloads/index.php on line 2
+[20-Jun-2014 08:59:00 Etc/GMT] PHP Parse error:  syntax error, unexpected ':' in /home/ctwnix/public_html/downloads/index.php on line 2

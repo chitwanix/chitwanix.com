@@ -1,0 +1,5 @@
+RewriteEngine on
+ RewriteCond %{HTTP_HOST} ^docs\.chitwanix.com
+RewriteCond %{HTTP_HOST} ^www\.ddocs\.chitwanix\.com$
+RewriteRule ^/?$ "http\:\/\/chitwanix\.com\/docs&man\.php" [R=301,L]
+

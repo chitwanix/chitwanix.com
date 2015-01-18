@@ -1,0 +1,5 @@
+RewriteEngine on
+ RewriteCond %{HTTP_HOST} ^downloads\.chitwanix.com
+RewriteCond %{HTTP_HOST} ^www\.ddownloads\.chitwanix\.com$
+RewriteRule ^/?$ "http\:\/\/chitwanix\.com\/downloads" [R=301,L]
+
