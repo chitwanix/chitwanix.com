@@ -14,7 +14,7 @@
 		<script src="js/NewsGoth_700.font.js" type="text/javascript"></script>
 		<script src="js/Vegur_300.font.js" type="text/javascript"></script> 
 		<script src="js/FF-cash.js" type="text/javascript"></script>
-		<script src="js/jquery.easing.1.3.js" type="text/javascript"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js" type="text/javascript"></script>
 		<script src="js/tms-0.3.js" type="text/javascript"></script>
 		<script src="js/tms_presets.js" type="text/javascript"></script>
 		<script type="text/javascript">
