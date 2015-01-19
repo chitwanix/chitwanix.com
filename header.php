@@ -8,7 +8,7 @@
 		<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
 		<link rel="stylesheet" href="css/layout.css" type="text/css" media="screen">   
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
-		<script src="js/cufon-yui.js" type="text/javascript"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/cufon/1.09i/cufon-yui.min.js" type="text/javascript"></script>
 		<script src="js/cufon-replace.js" type="text/javascript"></script>
 		<script src="js/NewsGoth_400.font.js" type="text/javascript"></script>
 		<script src="js/NewsGoth_700.font.js" type="text/javascript"></script>
