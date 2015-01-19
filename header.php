@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
 		<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
 		<link rel="stylesheet" href="css/layout.css" type="text/css" media="screen">   
-		<script src="js/jquery-1.6.3.min.js" type="text/javascript"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
 		<script src="js/cufon-yui.js" type="text/javascript"></script>
 		<script src="js/cufon-replace.js" type="text/javascript"></script>
 		<script src="js/NewsGoth_400.font.js" type="text/javascript"></script>
